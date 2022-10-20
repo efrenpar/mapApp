@@ -3,9 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
-
+  production: false,
+  apiKey:"pk.eyJ1IjoiZWZyZW5wYXIiLCJhIjoiY2w1anZubHF1MDQwNzNrcGVyaHNncGc0diJ9.7cTRP4sGAMCg2uxWWIpjrQ"
+}
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
